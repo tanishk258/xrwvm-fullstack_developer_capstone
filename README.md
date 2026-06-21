@@ -1,7 +1,7 @@
-# Cars Dealership Capstone Project
+# fullstack_developer_capstone
 
-Repository Name: cars-dealership-capstone
+Repository Name: xrwvm-fullstack_developer_capstone
 
-Project Name: Cars Dealership Full Stack Application
+Project Name: fullstack_developer_capstone
 
-This project is a full-stack web application for a national car dealership. It allows users to browse dealerships, view reviews, register/login, and submit reviews. The application uses React, Django, Flask, Node.js, MongoDB, SQLite, Docker, Kubernetes, and IBM Cloud Code Engine.
+Full Stack Developer Capstone Project for Cars Dealership application.
